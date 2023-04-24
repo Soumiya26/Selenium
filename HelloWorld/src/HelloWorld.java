@@ -6,4 +6,4 @@ public class HelloWorld {
 		System.out.println("Hello Soumiya This is your world");
 	}
 
-}
+}//pull data
